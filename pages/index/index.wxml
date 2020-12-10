@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- 标题区域 -->
+  <text>My Clock</text>
+
+  <!-- 手绘时钟区域 -->
+  <canvas canvas-id="clockCanvas"></canvas>
+
+  <!-- 数字电子时钟区域 -->
+  <text>{{h}}:{{m}}:{{s}}</text>
+
+</view>

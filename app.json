@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "我的时钟"
+  },
+  "sitemapLocation": "sitemap.json"
+}
